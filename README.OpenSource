@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "unicode-normalization",
+    "License": "Apache License V2.0, MIT",
+    "License File": "LICENSE-APACHE, LICENSE-MIT",
+    "Version Number": "0.1.22",
+    "Owner": "xuelei3@huawei.com",
+    "Upstream URL": "https://github.com/unicode-rs/unicode-normalization",
+    "Description": "provides functions for normalization of Unicode strings, including Canonical and Compatible Decomposition and Recomposition"
+  }
+]
